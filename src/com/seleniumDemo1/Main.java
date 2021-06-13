@@ -14,5 +14,6 @@ public class Main {
         Feron.Heat="600000000000kj";
         Feron.Radius="823587325872385723895km/2";
         Feron.Temperature="100000000000000000000000000f";
+
     }
 }
