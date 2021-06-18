@@ -22,7 +22,6 @@ public class Main {
 
         Planet2 pitoro=new Planet2();
         pitoro.raduios= "85930529029";
-        pitoro.size="very small";
 
 
     }
